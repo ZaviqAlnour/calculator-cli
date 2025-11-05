@@ -17,7 +17,7 @@ THE CALCULATOR IS INTERACTIVE AND WILL CONTINUE RUNNING UNTIL THE USER CHOOSES T
 
 ## HOW TO USE
 
-1. CLONE THIS REPOSITORY:  
+1. **CLONE THIS REPOSITORY:**
    ```bash
    git clone https://github.com/ZaviqAlnour/calculator-cli.git
 COMPILE THE C PROGRAM:
@@ -30,18 +30,19 @@ RUN THE PROGRAM:
 bash
 Copy code
 ./calculator
-FOLLOW THE ON-SCREEN MENU AND ENTER YOUR CHOICE AND NUMBERS.
-
-AFTER EVERY CALCULATION, YOU CAN CHOOSE TO CONTINUE OR EXIT.
+FOLLOW THE ON-SCREEN MENU:
+Enter your choice and numbers.
+After every calculation, you can choose to continue or exit.
 
 FEATURES
-HANDLES DIVISION BY ZERO GRACEFULLY.
+Handles division by zero gracefully.
 
-HANDLES MODULUS BY ZERO GRACEFULLY.
+Handles modulus by zero gracefully.
 
-SUPPORTS POWER/EXPONENTIATION USING MATH.H.
+Supports power/exponentiation using math.h.
 
-COMMAND-LINE INTERFACE FOR EASY USE.
+Simple command-line interface for quick use.
 
 AUTHOR
-ZAVIQ
+ZAVIQ ALNOUR
+
